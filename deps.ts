@@ -1,1 +1,1 @@
-export { prepare } from "https://deno.land/x/plugin_prepare@v0.3.1/mod.ts";
+export { prepare } from "https://raw.githubusercontent.com/slim-hmidi/deno-plugin-prepare/master/deps.ts";
